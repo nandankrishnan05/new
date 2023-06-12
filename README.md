@@ -1,2 +1,1 @@
-# new
-GeekOut first repo
+This is the readme.
